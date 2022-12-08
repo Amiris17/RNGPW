@@ -1,0 +1,28 @@
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size:68;
+    text-align:center;
+    text-decoration: underline;
+  
+    color: blueviolet;
+  }
+
+p {
+    color: black;
+    
+    font-family:'Times New Roman', Times, serif;
+
+    width: 900px;
+    display: block;
+    font-size:22px;
+    
+}
+
+
+body{
+    background-image: url("https://img.freepik.com/premium-photo/background-math-calculator-red-numbers-white-background-flat-lay-copy-space_127770-365.jpg?w=2000");
+}
+
+ 
+
+  
