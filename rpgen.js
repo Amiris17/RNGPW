@@ -44,7 +44,7 @@ function generate(){
 
 out1=document.getElementById('output1').innerHTML=password;
 password = "";
-// so right now the 
+
 
 
 
